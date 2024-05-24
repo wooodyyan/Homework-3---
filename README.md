@@ -1,2 +1,2 @@
-# hw1_binary_hex_converter
-基礎資料結構與演算法 hw1
+# Homework 3 - 快速排序演算法實作
+基礎資料結構與演算法 hw3
